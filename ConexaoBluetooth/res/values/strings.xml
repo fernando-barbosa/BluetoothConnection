@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConexaoBluetooth</string>
+    <string name="label">Clique no botão para ativar a conexão entre os dispositivos.</string>
+    <string name="action_settings">Settings</string>
+	<string name="buttonResult">Ativar conexão</string>
+
+</resources>
